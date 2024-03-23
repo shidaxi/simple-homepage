@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f8279fa-88e3-4e08-98d1-2ec45dd35a94" name="Changes" comment="" />
+    <list default="true" id="6f8279fa-88e3-4e08-98d1-2ec45dd35a94" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/PaperMod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/build-push.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/build-push.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
